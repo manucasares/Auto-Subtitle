@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 2rem 3rem 0;
+    background-color: #222;
+    color: white;
+}
+
+strong {
+    margin: 0;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+}
+
+input {
+    display: block;
+    width: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+textarea {
+    display: block;
+    margin: .5rem auto 2rem;
+    min-width: 100%;
+    max-width: 100%;
+}

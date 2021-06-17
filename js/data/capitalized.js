@@ -1,0 +1,2 @@
+export const capitalized = [ 'Manuel', 'Ariana', 'Ciudad de Buenos Aires', 'Buenos Aires', 'Lúminis', 'Argentina', 'Gabriel', 'Gabriel Latorre', 'Gabi', 'Valeria', 'Isabelino', 'Provincia de Buenos Aires', 'América', 'Europa', 'Kirchner', 'Esteban', 'Fundación Lúminis', 'Facebook', 'Whatsapp', 'Twitter', 'Youtube', 'Meet', 'Google', 'Zoom', 'Constitución' ];
+    
